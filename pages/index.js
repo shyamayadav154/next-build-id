@@ -21,7 +21,7 @@ export default function Home() {
       </nav>
 
       <main>
-        <h1>Index page updated</h1>
+        <h1>Index page</h1>
       </main>
     </>
   );
